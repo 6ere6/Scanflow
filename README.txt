@@ -16,7 +16,7 @@ CLI C# (.NET) qui simplifie Nmap : profils prêts à l'emploi, suivi temps réel
 ## Installation
 ```bash
 # Cloner
-git clone https://github.com/<votre-compte>/scanflow.git
+git clone https://github.com/6ere6/scanflow.git
 cd scanflow
 
 # Restaurer & build
@@ -55,4 +55,5 @@ scanflow history run --id 12
 - `stdout` : progression + résultats filtrés
 - `logs/` : traces horodatées
 - Exports : TXT
+
 
